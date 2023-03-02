@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BartoszPalgan
+- 👋 Hi, I’m Bartosz
 - 👀 I’m interested in astronomy and new technologies
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me: bartosz.palgan96@gmail.com
