@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartosz
 - 👀 I’m interested in astronomy and new technologies
-- 🌱 I’m currently learning computer science
+- 🌱 I'm constantly expanding my knowledge of computer science
 - 📫 How to reach me: bartosz.palgan96@gmail.com
 <!---
 BartoszPalgan/BartoszPalgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
